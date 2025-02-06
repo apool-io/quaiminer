@@ -121,7 +121,7 @@ The /gpu API will return all devices, including cpu.
 **Usage:**
 
 ```powershell
-./apoolminer --algo qubic --account <your sub-account> --rest --port 5001 --pool <coin proxy> [OPTIONS]    
+./apoolminer --algo quai --account <your sub-account> --rest --port 5001 --pool <coin proxy> [OPTIONS]    
 ```
 
 ## Changelog
