@@ -1,4 +1,4 @@
-# Apoolminer
+# Apoolminer for Quai
 
 ```powershell
  $$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\  $$\       
@@ -17,11 +17,11 @@ The best Optimization Miner for Quai.
 
 ## Disclaimer
 
-[apool.io](https://www.apool.io/) & [apoolminer_github](https://github.com/apool-io/apoolminer) are the only 2 officially maintained site for publishing information and new releases of apoolminer.
+[apool.io](https://www.apool.io/) & [apoolminer_github](https://github.com/apool-io/quaiminer) are the only 2 officially maintained site for publishing information and new releases of apoolminer.
 
 ## Install
 
-Always get the lastest version from the [releases](https://github.com/apool-io/apoolminer/releases)
+Always get the lastest version from the [releases](https://github.com/apool-io/quaiminer/releases)
 
 and then extract the file
 
@@ -50,7 +50,6 @@ Options:
   -p, --parallel <PARALLEL>            Specify the number of parallel jobs per GPU [default: 0]
       --cpu-off                        Close main CPU mining
       --cpu-off-slave                  Close slave CPU mining
-      --gpu-off                        Close GPU mining
   -o, --log <LOG>                      Specify the log file
       --local-time                     Use the local time for log message timestamps
       --vf                             More information about version
