@@ -1,4 +1,4 @@
-# Apoolminer for Quai
+ # Apoolminer for Quai
 
 ```powershell
  $$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\  $$\       
@@ -124,3 +124,6 @@ The /gpu API will return all devices, including cpu.
 ```
 
 ## Changelog
+
+### 2.8.3
+GPU: Add quai algorithm, support qubic+quai idle mining.
