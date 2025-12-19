@@ -127,3 +127,10 @@ The /gpu API will return all devices, including cpu.
 
 ### 2.8.3
 GPU: Add quai algorithm, support qubic+quai idle mining.
+
+### 3.3.1
+1. The Quai mining algorithm has been upgraded to KawPow
+Algorithm Update: The Quai mining algorithm has been upgraded to KawPow.
+
+2. Proxy Address Change: After upgrading, please switch your miner connection to the new proxy address:
+ quai.hk.apool.io:3335
